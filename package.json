@@ -67,7 +67,7 @@
     "spawn-command": "0.0.2-1",
     "strip-ansi": "6.0.1",
     "tern": "0.24.3",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.4"
   },
   "publishConfig": {
     "access": "public"

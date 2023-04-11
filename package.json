@@ -37,7 +37,7 @@
     "dockerode": "2.5.8",
     "fs-extra": "9.1.0",
     "glob": "9.3.4",
-    "gluegun": "https://github.com/edgeandnode/gluegun#v4.3.1-pin-colors-dep",
+    "gluegun": "4.3.1",
     "graphql": "15.5.0",
     "immutable": "4.2.1",
     "ipfs-http-client": "55.0.0",
@@ -53,6 +53,8 @@
     "yaml": "1.10.2"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-typescript": "^7.21.4",
     "@types/debug": "^4.1.7",
     "@types/fs-extra": "^9.0.13",
     "@types/jest": "^26.0.24",
